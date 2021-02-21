@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper)]
 
-I love to please others with my programs.
+
+## I love to please others with my programs.
