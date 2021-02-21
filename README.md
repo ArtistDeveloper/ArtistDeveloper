@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper&show_icons=true&theme=dracula)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somadubel)](https://solved.ac/profile/somadubel)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=somadubel)](https://solved.ac/somadubel)
 
 ### I love to please others with my programs.
