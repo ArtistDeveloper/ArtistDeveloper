@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 --> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper&show_icons=true&theme=radical)
 
 
-## I love to please others with my programs.
+### I love to please others with my programs.
