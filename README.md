@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper&show_icons=true&theme=dracula)
 
 ### I love to please others with my programs.
+
+할 것
+1. 프로젝트를 하는 것 이외에  코드 퀄리티 자체를 좀 올리는 것을 신경쓰기
+2. 렌더링 기초지식
+3. OOP 코드 퀄리티 늘리기
