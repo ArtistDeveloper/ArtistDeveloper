@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 <!--
 **ArtistDeveloper/ArtistDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +18,8 @@ Here are some ideas to get you started:
 --> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper&show_icons=true&theme=dracula) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somadubel)](https://solved.ac/profile/somadubel) 
+
+---
 
 기본적인 지식을 탄탄히 하는 것을 중요히 여기며, 여러 가지 도전하는 것을 좋아합니다. 현재 기존 프로젝트를 고도화시켜 코드 리팩토링을 하며 출시를 위해 프로젝트를 다듬고 있습니다.
 
