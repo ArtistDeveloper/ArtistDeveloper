@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper&show_icons=true&theme=dracula) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somadubel)](https://solved.ac/profile/somadubel) 
 
-### I love to please others with my programs.
+기본적인 지식을 탄탄히 하는 것을 중요히 여기며, 여러 가지 도전하는 것을 좋아합니다. 현재 기존 프로젝트를 고도화시켜 코드 리팩토링 및 출시를 위해 프로젝트를 다듬고 있습니다.
+
 <!--
 **할 것**
 1. 프로젝트를 하는 것 이외에  코드 퀄리티 자체를 올리는 것을 신경쓰기 (OOP 코드 퀄리티 늘리기)
