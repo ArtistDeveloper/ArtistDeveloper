@@ -37,3 +37,8 @@ Here are some ideas to get you started:
 
 코루틴. Linq
 -->
+
+
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/ArtistDeveloper/ArtistDeveloper/blob/main/github-metrics.svg)
+
