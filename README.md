@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 현재 기존 프로젝트 출시를 위해 코드 리팩토링을 하며 프로젝트를 다듬고 있습니다.
 
 ### Skils
-<img src="https://img.shields.io/badge/-Csharp-3DDC84?style=flat-square&logo=C#&logoColor=white"/>
+<img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=C#&logoColor=white"/>
 
 <!--
 **할 것**
