@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper&show_icons=true&theme=dracula) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somadubel)](https://solved.ac/profile/somadubel) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper&show_icons=true&theme=dracula) 
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somadubel)](https://solved.ac/profile/somadubel) -->
 
 ---
 💬
@@ -25,6 +26,9 @@ Here are some ideas to get you started:
 기본 지식을 탄탄히 하는 것을 중요히 여기며, 여러 가지 도전하는 것을 좋아합니다. 
 
 현재 기존 프로젝트 출시를 위해 코드 리팩토링을 하며 프로젝트를 다듬고 있습니다.
+
+### Skils
+<img src="https://img.shields.io/badge/C#-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **할 것**
