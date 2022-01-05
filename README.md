@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 
 ### Skils
 <img src="https://img.shields.io/badge/-C Sharp-239120?style=flat&logo=CSharp&logoColor=white"/>
-
-:sunglasses:
+<img src="https://img.shields.io/badge/-Cpp-239120?style=flat&logo=CSharp&logoColor=white"/>
 
 <!--
 **할 것**
