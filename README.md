@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ---
 💬
+노력합니다.
 
 ### Skils
 <img src="https://img.shields.io/badge/-C Sharp-239120?style=flat&logo=CSharp&logoColor=white"/>
