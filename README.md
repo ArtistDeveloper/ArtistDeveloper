@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper&show_icons=true&theme=dracula) -->
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somadubel)](https://solved.ac/profile/somadubel) -->
 
-🌱 그래픽스 정리 블로그 https://artistdeveloper.github.io/
+🌱 [그래픽스 정리 블로그] (https://artistdeveloper.github.io/)
 
 🌱 유니티 및 개발관련 정리 블로그 artiper.tistory.com
 
