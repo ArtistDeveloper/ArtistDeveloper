@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somadubel)](https://solved.ac/profile/somadubel) -->
 
 🌱 그래픽스 정리 블로그 https://artistdeveloper.github.io/
+
 🌱 유니티 및 개발관련 정리 블로그 artiper.tistory.com
 
 ### Skils
