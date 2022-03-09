@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somadubel)](https://solved.ac/profile/somadubel) -->
 
 💬
-https://github.com/ArtistDeveloper/ArtistDeveloper.github.io
+그래픽스 정리 블로그
+https://artistdeveloper.github.io/
+
+유니티 및 개발관련 정리 블로그
 
 ### Skils
 <img src="https://img.shields.io/badge/-C Sharp-239120?style=flat&logo=CSharp&logoColor=white"/>
