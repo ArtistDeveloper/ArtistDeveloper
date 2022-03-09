@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🌱 [그래픽스 정리 블로그](https://artistdeveloper.github.io/)
 
-🌱 [유니티 및 개발관련 정리 블로그](artiper.tistory.com)
+🌱 [유니티 및 개발관련 정리 블로그](https://artiper.tistory.com/)
 
 ### Skils
 <img src="https://img.shields.io/badge/-C Sharp-239120?style=flat&logo=CSharp&logoColor=white"/>
