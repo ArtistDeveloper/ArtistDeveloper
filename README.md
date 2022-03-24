@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper&show_icons=true&theme=dracula) -->
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somadubel)](https://solved.ac/profile/somadubel) -->
 
-<!--🌱 [그래픽스 정리 블로그](https://artistdeveloper.github.io/)
+🌱 [그래픽스 정리 블로그](https://artistdeveloper.github.io/)
 
-🌱 [유니티 및 개발관련 정리 블로그](https://artiper.tistory.com/) -->
+🌱 [유니티 및 개발관련 정리 블로그](https://artiper.tistory.com/)
 
 
 
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 저도 외국에서 프론트엔트하는 개발자 친구가 타자치기전에 꼭 종이에다 코드를 적어서 공부하는거 따라했는데
 
-코루틴. Linq
+Linq
 -->
 
