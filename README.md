@@ -22,8 +22,12 @@ Here are some ideas to get you started:
 
 🌱[유니티 정리 블로그](https://artiper.tistory.com/)
 
-### Skils
-<img src="https://img.shields.io/badge/-C Sharp-239120?style=flat&logo=CSharp&logoColor=white"/>
+🌱 I’m currently learning
+Languages: Modern C++, C#, Python
+Topics: ML, Computer Graphics / Vision, Cinematic Rendering
+
+<!-- ### Skils
+<img src="https://img.shields.io/badge/-C Sharp-239120?style=flat&logo=CSharp&logoColor=white"/> -->
 
 <!--
 **할 것**
