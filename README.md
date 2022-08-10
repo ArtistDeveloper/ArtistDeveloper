@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 🧮[유니티 정리 블로그](https://artiper.tistory.com/)
 
+<br/>
+
 🌱 I’m currently learning
 - Languages: C++, C#, Python
 - Topics: ML, Computer Graphics / Vision, Cinematic Rendering
