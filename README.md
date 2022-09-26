@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning
 - Languages: C++, C#, Python
-- Topics: ML, Computer Graphics / Vision, Cinematic Rendering
+- Topics: ML, Computer Graphics / Vision, Cinematic Rendering, Medical Image Visualization
 
 
 
