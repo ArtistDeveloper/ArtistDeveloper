@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 <br/>
 
 
-
+<!--
 <p align="center">
   여긴 익명이가 지배했습니다. <br/>
   <img src="https://user-images.githubusercontent.com/40491724/205279626-fa3f621c-4f14-4317-8e44-7ccbacfea9b8.png" width="50%" height="50%">
 </p>
+-->
    
 <!-- ### Skils
 <img src="https://img.shields.io/badge/-C Sharp-239120?style=flat&logo=CSharp&logoColor=white"/> -->
