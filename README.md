@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 - Languages: C++, C#, Python
 - Topics: ML, Computer Graphics / Vision, Cinematic Rendering, Medical Image Visualization
 
-<br/>
-<br/>
-
-
 <!--
 <p align="center">
   여긴 익명이가 지배했습니다. <br/>
