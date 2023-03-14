@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 🌱 I’m currently learning
 - Topics: ML, Computer Graphics / Vision, Cinematic Rendering, Medical Image Visualization
 
+
+### Education
+M. S. Candidate, Department of Computer Science, KNU, Republic of korea
+B. S. Student, Computer Science, GNU, Republic of korea
+
 <!--
 <p align="center">
   여긴 익명이가 지배했습니다. <br/>
