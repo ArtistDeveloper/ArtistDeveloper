@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 🧮[Development related blog](https://artiper.tistory.com/)<br/>
 -->
 
+💬 I want to make people happy.
+
 🌱 I’m currently learning
 - Topics: ML, Computer Graphics / Vision, Cinematic Rendering, Medical Image Visualization
 
@@ -31,7 +33,6 @@ Here are some ideas to get you started:
 - M. S. Candidate, Department of Computer Science, KNU, Republic of korea <br/>
 - B. S. Student, Computer Science, GNU, Republic of korea
 
-I want to make people happy.
 <!--
 <p align="center">
   여긴 익명이가 지배했습니다. <br/>
