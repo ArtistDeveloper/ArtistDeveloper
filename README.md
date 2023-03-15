@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🧮[Development related blog](https://artiper.tistory.com/)<br/>
 -->
 
-💬 I want to make people happy.
+💬 I want to make people happy. <br/>
 
 🌱 I’m currently learning
 - Topics: ML, Computer Graphics / Vision, Cinematic Rendering, Medical Image Visualization
