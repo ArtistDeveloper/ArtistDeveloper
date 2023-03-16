@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 
 ### Education
-- M. S. Candidate, Department of Computer Science, KNU, Republic of korea <br/>
-- B. S. Computer Science, GNU, Republic of korea
+- M.S. Candidate, Department of Computer Science, KNU, Republic of korea <br/>
+- B.S. Computer Science, GNU, Republic of korea
 
 <!--
 <p align="center">
