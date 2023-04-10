@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 저도 외국에서 프론트엔트하는 개발자 친구가 타자치기전에 꼭 종이에다 코드를 적어서 공부하는거 따라했는데
-
+asdasd
 Linq
 -->
 
