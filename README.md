@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/>
 
 🌱 I’m currently learning
-- Topics: ML, Computer Graphics / Vision, Cinematic Rendering, Medical Image Visualization
+- Topics: ML, Computer Graphics, Medical Image Visualization, Generative model
 
 
 ### Education
