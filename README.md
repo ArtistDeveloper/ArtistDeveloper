@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/>
 
 🌱 I’m currently learning
-- Topics: Computer Graphics, Medical Image Visualization, Generative model
+- Topics: Computer Graphics, Generative model
 
 
 ### Education
