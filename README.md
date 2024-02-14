@@ -29,11 +29,6 @@ Here are some ideas to get you started:
 🌱 I’m currently learning
 - Topics: Computer Graphics, ML, Generative model
 
-
-### Education
-- M.S. Candidate, Department of Computer Science, KNU, Republic of korea <br/>
-- B.S. Computer Science, GNU, Republic of korea
-
 <!--
 <p align="center">
   여긴 익명이가 지배했습니다. <br/>
