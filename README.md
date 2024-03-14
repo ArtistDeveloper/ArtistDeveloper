@@ -27,7 +27,7 @@ I want to make people happy.
 <br/>
 
 I’m currently learning
--Computer Graphics, ML, Generative model
+- Computer Graphics, ML, Generative model
 
 <!--
 <p align="center">
