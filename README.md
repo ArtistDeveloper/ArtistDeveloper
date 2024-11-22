@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 I want to make people happy.
 <br/>
 
-I’m currently learning Computer Graphics, ML, Generative model
 
 <!--
 <p align="center">
