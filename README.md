@@ -1,34 +1,34 @@
-### Hi there 👋
-
-<!--
-**ArtistDeveloper/ArtistDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtistDeveloper&show_icons=true&theme=dracula) -->
-<!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=somadubel)](https://solved.ac/profile/somadubel) -->
-
-<!-- 
-🧮[Graphics, Math, ML blog](https://artistdeveloper.github.io/)<br/>
-🧮[Development related blog](https://artiper.tistory.com/)<br/>
--->
-
+## Hi there 👋
 I want to make people happy.
+
+I’m a **C++ / C# developer** who loves turning ideas into interactive visuals.  
+My main interests are in **graphics programming**, **real-time rendering**, and **Unity game development**.  
+
 <br/>
 
-## My Programs
+## 💻 Tech Stack
+
+**Languages**  
+C++17 / C++20 · C# (.NET / Unity)
+
+**Frameworks & Tools**  
+OpenGL · Qt6 (for UI tools) · CMake · Visual Studio · Visual Studio Code · Git
+
+**Areas of Interest**  
+Graphics Programming · Game Development · 3D Visualization
+
+## Contact
+- [Email](somadubel@gmail.com)
+- [Blog](https://artiper.tistory.com/)
+
+<br/>
+
+
+## My Projects
 ### Lidar-visualization
 ![ViewerDemo](https://github.com/ArtistDeveloper/ArtistDeveloper/blob/main/Lidar-Visualization%20GIF.gif?raw=true)
+
+
 
 <!--
 <p align="center">
