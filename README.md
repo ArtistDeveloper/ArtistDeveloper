@@ -25,11 +25,6 @@ Here are some ideas to get you started:
 
 I want to make people happy.
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## My Programs
 ### Lidar-visualization
