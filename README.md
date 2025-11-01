@@ -19,6 +19,12 @@ Graphics Programming · Game Development · 3D Visualization
 
 <br/>
 
+## 🌱 Currently I'm Learning
+- **OpenGL** — understanding the rendering pipeline, shaders, and real-time visualization  
+- **Unity (C#)** — creating interactive 3D scenes and gameplay prototypes  
+- **Modern C++** — improving code structure, memory safety, and performance  
+
+<br/>
 
 ## My Projects
 ### Lidar-visualization
