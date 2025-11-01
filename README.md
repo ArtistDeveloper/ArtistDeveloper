@@ -26,10 +26,11 @@ My main interests are in **graphics programming**, **real-time rendering**, and 
 
 <br/>
 
+<!--
 ## My Projects
 ### Lidar-visualization
 ![ViewerDemo](https://github.com/ArtistDeveloper/ArtistDeveloper/blob/main/Lidar-Visualization%20GIF.gif?raw=true)
-
+-->
 
 
 <!--
