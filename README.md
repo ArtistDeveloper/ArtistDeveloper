@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 I want to make people happy.
 <br/>
 
+My Lidar Viewer
+![ViewerDemo](https://github.com/ArtistDeveloper/ArtistDeveloper/blob/main/Lidar-Visualization%20GIF.gif?raw=true)
 
 <!--
 <p align="center">
