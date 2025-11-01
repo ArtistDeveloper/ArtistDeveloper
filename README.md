@@ -17,10 +17,6 @@ OpenGL · Qt6 (for UI tools) · CMake · Visual Studio · Visual Studio Code · 
 **Areas of Interest**  
 Graphics Programming · Game Development · 3D Visualization
 
-## Contact
-- [Email](somadubel@gmail.com)
-- [Blog](https://artiper.tistory.com/)
-
 <br/>
 
 
