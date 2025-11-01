@@ -1,6 +1,9 @@
 ## Hi there 👋
 I want to make people happy.
 
+<!--
+
+
 I’m a **C++ / C# developer** who loves turning ideas into interactive visuals.  
 My main interests are in **graphics programming**, **real-time rendering**, and **Unity game development**.  
 
@@ -25,6 +28,9 @@ My main interests are in **graphics programming**, **real-time rendering**, and 
 - **Modern C++** — improving code structure, memory safety, and performance  
 
 <br/>
+
+-->
+
 
 <!--
 ## My Projects
