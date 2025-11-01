@@ -9,13 +9,13 @@ My main interests are in **graphics programming**, **real-time rendering**, and 
 ## 💻 Tech Stack
 
 **Languages**  
-C++17 / C++20 · C# (.NET / Unity)
+- C++17 / C++20 · C# (.NET / Unity)
 
 **Frameworks & Tools**  
-OpenGL · Qt6 (for UI tools) · CMake · Visual Studio · Visual Studio Code · Git
+- OpenGL · Qt6 (for UI tools) · CMake · Visual Studio · Visual Studio Code · Git
 
 **Areas of Interest**  
-Graphics Programming · Game Development · 3D Visualization
+- Graphics Programming · Game Development · 3D Visualization
 
 <br/>
 
